@@ -20,3 +20,13 @@ I'm planning to embed the 5v fan controller inside of the active carbon filter g
 **2 hours:** modeling
 
 ![Screenshot from 2025-07-02 23-29-49](https://github.com/user-attachments/assets/5c66fff9-cc4f-4fe5-990b-d01533955d49)
+
+## July 3rd
+
+I spent a lot of time making planes and certain hard to get points and pieces to create all of the geometry. One of the difficulties was merging together all of the screw holes, and I had to refactor it later when I had messed up and created multiple parts for something that should only be one.
+
+The overall outline shape is complete now. My plan is to have the top three cylinders as the active carbon backup containers when the volatile element sensor indicates required replacement. I've been brainstorming a spring mechanism for securing the vacuum hose to the extractor, and that's where I'll be heading next.
+
+**6 hours:** modeling
+
+![Screenshot from 2025-07-03 19-24-34](https://github.com/user-attachments/assets/c610370c-f4d0-4f69-8689-8ebe9033f34e)
