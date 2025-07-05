@@ -30,3 +30,7 @@ The overall outline shape is complete now. My plan is to have the top three cyli
 **6 hours:** modeling
 
 ![Screenshot from 2025-07-03 19-24-34](https://github.com/user-attachments/assets/c610370c-f4d0-4f69-8689-8ebe9033f34e)
+
+## July 4th
+
+Today I finished the 3d model. I'll be focusing on electronics going forward. The best approach I theorized for securing the vacuum hose was using springs for a friction fit that can be push released. You can see it in the image below.
