@@ -28,4 +28,4 @@
 
 **Vacuum Washable HEPA filter** x3 $15.99 https://www.amazon.com/SunSare-CPA1725-RYH-Vacuum-Filter-3PCS/dp/B0DQ8STYNL
 
-**Bag of Carbon Granules**
+**Bag of Carbon Granules** $46 https://www.amazon.com/AC-Infinity-Australian-Replacement-Hydroponics/dp/B0CFCKFPHR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A2AW0W4FKP16S5&gQT=1&th=1
