@@ -33,4 +33,17 @@ The overall outline shape is complete now. My plan is to have the top three cyli
 
 ## July 4th
 
+
 Today I finished the 3d model. I'll be focusing on electronics going forward. The best approach I theorized for securing the vacuum hose was using springs for a friction fit that can be push released. You can see it in the image below.
+
+<img width="2091" height="1458" alt="Screenshot from 2025-07-18 00-03-56" src="https://github.com/user-attachments/assets/0379c86a-bfe1-488e-8948-1ac373d4189f" />
+
+**3 hours** modeling
+
+## July 18th
+
+The fan has wires for PWM and power. I've created holes within the cylinders for the wires to go out of, as well as screw holes to secure the fans.
+
+<img width="2091" height="1458" alt="Screenshot from 2025-07-18 00-00-55" src="https://github.com/user-attachments/assets/2558aacf-0dec-413e-9637-417b8d730581" />
+
+**1 hour:** modeling
