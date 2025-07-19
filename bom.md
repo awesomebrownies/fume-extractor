@@ -8,7 +8,7 @@
 
 **PWM Ventilation Fans** x3 $48 https://www.amazon.com/Noctua-NF-A4x10-5V-PWM-Premium/dp/B07DXS86G7
 
-**SparkFun RP2040** x1 $13.20 https://www.digikey.com/en/products/detail/sparkfun-electronics/18288/15216111
+**Raspberry Pi Pico** x1 $4 https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13684020
 
 **Rotary Encoder w/ Switch** x1 $4.50 https://www.digikey.com/en/products/detail/alps-alpine/EC11E09244BS/21721622
 
