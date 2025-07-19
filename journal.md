@@ -50,4 +50,7 @@ The fan has wires for PWM and power. I've created holes within the cylinders for
 
 ## July 18th
 
-Mostly spent on further material sourcing, the perfect filter showed itself to me. Exactly 25mm in diameter, this HEPA particulate filter is machine washable and the exact size needed. I have also found SSD1306 compatible OLED displays on digikey using the I2C interface, allowing for me to easily monitor the volatile organic compounds exiting and entering using the VOC sensor -SGP40-. I'll be using the 
+Mostly spent on further material sourcing, the perfect filter showed itself to me. Exactly 25mm in diameter, this HEPA particulate filter is machine washable and the exact size needed. I have also found SSD1306 compatible OLED displays on digikey using the I2C interface, allowing for me to easily monitor the volatile organic compounds exiting and entering using the VOC sensor -SGP40-.
+
+<img width="2448" height="1304" alt="Screenshot from 2025-07-18 14-06-25" src="https://github.com/user-attachments/assets/2d845e48-22af-4f7b-9200-b71a754bca97" />
+
