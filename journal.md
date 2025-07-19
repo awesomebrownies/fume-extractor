@@ -58,3 +58,11 @@ I've gone over the maximum budget given for a 6 point project, therefore I'm goi
 
 **3 hours** sourcing materials
 
+## July 18th *Night
+
+The HEPA filter needed a good spot to be placed, I decided I would tackle two problems at once. It's very difficult to print a cylinder in one piece, and the top part of the cylinder would be a challenge. So I split it up into another piece, while also adding bolts to secure the HEPA filters in that place. This is the ideal position, since I can print block-off sheets on the un-used filters if need be, to preserve the carbon granules, while on the active canisters, it's the first stage, making the carbon granules (which need to be replaced unlike the machine washable HEPA filters) last longer.
+
+<img width="2448" height="1304" alt="Screenshot from 2025-07-18 23-06-14" src="https://github.com/user-attachments/assets/90807838-609d-4711-bc86-6008ad410653" />
+
+**1 hour** modeling
+
