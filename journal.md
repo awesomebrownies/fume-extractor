@@ -54,3 +54,7 @@ Mostly spent on further material sourcing, the perfect filter showed itself to m
 
 <img width="2448" height="1304" alt="Screenshot from 2025-07-18 14-06-25" src="https://github.com/user-attachments/assets/2d845e48-22af-4f7b-9200-b71a754bca97" />
 
+I've gone over the maximum budget given for a 6 point project, therefore I'm going to be shelling out my own money for anything over the budget. I really want to see this project succeed!
+
+**3 hours** sourcing materials
+
