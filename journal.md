@@ -40,10 +40,14 @@ Today I finished the 3d model. I'll be focusing on electronics going forward. Th
 
 **3 hours** modeling
 
-## July 18th
+## July 17th
 
 The fan has wires for PWM and power. I've created holes within the cylinders for the wires to go out of, as well as screw holes to secure the fans.
 
 <img width="2091" height="1458" alt="Screenshot from 2025-07-18 00-00-55" src="https://github.com/user-attachments/assets/2558aacf-0dec-413e-9637-417b8d730581" />
 
 **1 hour:** modeling
+
+## July 18th
+
+Mostly spent on further material sourcing, the perfect filter showed itself to me. Exactly 25mm in diameter, this HEPA particulate filter is machine washable and the exact size needed. I have also found SSD1306 compatible OLED displays on digikey using the I2C interface, allowing for me to easily monitor the volatile organic compounds exiting and entering using the VOC sensor -SGP40-. I'll be using the 
