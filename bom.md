@@ -12,17 +12,13 @@
 
 **Rotary Encoder w/ Switch** x1 $4.50 https://www.digikey.com/en/products/detail/alps-alpine/EC11E09244BS/21721622
 
+**Headers Kit** x1 $10.99 https://www.amazon.com/2-54mm-Breakaway-Female-Connector-Arduino/dp/B0774VBJ3J
+
 ## Fume Hood
 
 **19'' Gooseneck Arm** x1 $12.99 https://www.amazon.com/Gator-Frameworks-Gooseneck-Microphones-GFW-MIC-GN19/dp/B01CUR5DU2
 
 **Flexible Hose** x1 $12.00 https://www.amazon.com/Flexible-Central-Vacuum-Installation-Hose/dp/B0CLH8M5JQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A22EWZPVOS6SDG&gQT=1
-
-## Decoration
-
-**Acrylic Paint (x3 colors)** $46.99 https://www.amazon.com/Vallejo-Basic-Colors-Paint-17ml/dp/B009162PWU?th=1
-
-**Primer** x1 $18.98 https://www.amazon.com/Dupli-Color-DAP1700-EDAP17007-Primer-12-Fluid_Ounces/dp/B00R244LN4
 
 ## Filtering Elements
 
