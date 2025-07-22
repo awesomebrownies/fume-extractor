@@ -1,6 +1,6 @@
 # Fume Extractor
 
-## Electronics
+## Electronics $111.33
 
 **Air Quality Sensor** x1 $6.20 https://www.digikey.com/en/products/detail/sensirion-ag/SGP40-D-R4/12820418
 
@@ -14,13 +14,15 @@
 
 **Headers Kit** x1 $10.99 https://www.amazon.com/2-54mm-Breakaway-Female-Connector-Arduino/dp/B0774VBJ3J
 
-## Fume Hood
+**Wire Spool** x5 $25.98 https://www.microcenter.com/product/456250/adafruit-industries-hook-up-wire-spool-set-(22awg-solid-core-25-ft)
+
+## Fume Hood $24.99
 
 **19'' Gooseneck Arm** x1 $12.99 https://www.amazon.com/Gator-Frameworks-Gooseneck-Microphones-GFW-MIC-GN19/dp/B01CUR5DU2
 
 **Flexible Hose** x1 $12.00 https://www.amazon.com/Flexible-Central-Vacuum-Installation-Hose/dp/B0CLH8M5JQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A22EWZPVOS6SDG&gQT=1
 
-## Filtering Elements
+## Filtering Elements $61.99
 
 **Vacuum Washable HEPA filter** x3 $15.99 https://www.amazon.com/SunSare-CPA1725-RYH-Vacuum-Filter-3PCS/dp/B0DQ8STYNL
 
