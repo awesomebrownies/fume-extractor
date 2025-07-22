@@ -18,6 +18,12 @@
 
 ## Fume Hood $24.99
 
+## Mechanics
+
+**Springs** x2 *Already purchased*
+
+**3D Prints** *Using printing legion* 
+
 **19'' Gooseneck Arm** x1 $12.99 https://www.amazon.com/Gator-Frameworks-Gooseneck-Microphones-GFW-MIC-GN19/dp/B01CUR5DU2
 
 **Flexible Hose** x1 $12.00 https://www.amazon.com/Flexible-Central-Vacuum-Installation-Hose/dp/B0CLH8M5JQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A22EWZPVOS6SDG&gQT=1
