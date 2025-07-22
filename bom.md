@@ -16,13 +16,13 @@
 
 **Wire Spool** x5 $25.98 https://www.microcenter.com/product/456250/adafruit-industries-hook-up-wire-spool-set-(22awg-solid-core-25-ft)
 
-## Fume Hood $24.99
-
 ## Mechanics
 
 **Springs** x2 *Already purchased*
 
 **3D Prints** *Using printing legion* 
+
+## Fume Hood $24.99
 
 **19'' Gooseneck Arm** x1 $12.99 https://www.amazon.com/Gator-Frameworks-Gooseneck-Microphones-GFW-MIC-GN19/dp/B01CUR5DU2
 
