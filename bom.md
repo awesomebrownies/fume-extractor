@@ -1,10 +1,8 @@
 # Fume Extractor
 
-## Electronics $111.33
+## Electronics $62.70
 
 **Air Quality Sensor** x1 $6.20 https://www.digikey.com/en/products/detail/sensirion-ag/SGP40-D-R4/12820418
-
-**Small OLED display** x1 $11.66 https://www.digikey.com/en/products/detail/orient-display/AOM12864A0-0-96WW-ANO/22531926
 
 **PWM Ventilation Fans** x3 $48 https://www.amazon.com/Noctua-NF-A4x10-5V-PWM-Premium/dp/B07DXS86G7
 
@@ -12,11 +10,13 @@
 
 **Rotary Encoder w/ Switch** x1 $4.50 https://www.digikey.com/en/products/detail/alps-alpine/EC11E09244BS/21721622
 
-**Headers Kit** x1 $10.99 https://www.amazon.com/2-54mm-Breakaway-Female-Connector-Arduino/dp/B0774VBJ3J
+*Personally recommended, not part of BOM*
 
 **Wire Spool** x5 $25.98 https://www.microcenter.com/product/456250/adafruit-industries-hook-up-wire-spool-set-(22awg-solid-core-25-ft)
 
-## Mechanics
+**Wire Stripper** $21.97 https://www.amazon.com/Self-Adjusting-Stripper-Klein-Tools-11061/dp/B00CXKOEQ6
+
+## Mechanics $0
 
 **Springs** x2 *Already purchased*
 
