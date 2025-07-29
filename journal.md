@@ -70,5 +70,7 @@ The HEPA filter needed a good spot to be placed, I decided I would tackle two pr
 
 I've just gotten a break day from my part time 37hr a week job, so I'm getting some motivation to push through to the final product. The hose clamp extrusion has been polished up, and I've removed unnecessary material for better airflow. I've also added a spot for the gooseneck arm to secure to, which in turn will give rigidity to the vacuum hose. It has two M2 screws and I'll use nuts on the other side.
 
+<img width="2110" height="1288" alt="Screenshot from 2025-07-29 13-55-43" src="https://github.com/user-attachments/assets/a4934cf1-37f6-4d80-9b67-e7c789d4c9a8" />
+
 **3 hours** modeling
 
