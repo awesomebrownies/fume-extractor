@@ -23,6 +23,8 @@ Let's skip over to putting it together.
 
 Refer to the wiring diagram below:
 
+<img height="600" alt="Screenshot from 2025-07-29 23-48-41" src="https://github.com/user-attachments/assets/7da769f8-28db-4bcb-9665-79e158f3429a" />
+
 ### Putting together the print
 
 The capsules are in a couple of pieces, and you'll need a screw and a nut for each of the parts.
