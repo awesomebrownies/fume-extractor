@@ -74,3 +74,11 @@ I've just gotten a break day from my part time 37hr a week job, so I'm getting s
 
 **3 hours** modeling
 
+
+## July 29th Night*
+
+The final touches were made and its off to submission land! I've added screw holes for the raspberry pi pico to mount to, as well as additional separation pieces to prevent the fan sucking carbon granules. The final addition is the hook which will secure the gooseneck arm. Unfortunately due to the nature of hoses and gooseneck arms I cannot put them in a program like cad unless I want it to look ridiculous. I've just put all of the parts together, and it's looking fantastic!
+
+<img width="1510" height="1277" alt="Screenshot from 2025-07-29 21-21-22" src="https://github.com/user-attachments/assets/ff89438d-a7ba-4882-82e0-17b42d0ecc09" />
+
+**4 hours** getting parts & modeling
