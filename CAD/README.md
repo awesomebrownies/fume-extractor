@@ -5,7 +5,7 @@ OR
 
 Access the full fume extractor .step file by downloading "Full Fume Extractor.step"
 
-Here are all the essential files you need to print the cyberdeck!
+Here are all the essential files you need to print the fume exctractor!
 
 Print all of these once, except the following should be printed TWO times
 
