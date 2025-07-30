@@ -5,6 +5,8 @@ description: "Apocalyptic rig with a two hand adjustable fume hood w/ hot-swappa
 created_at: "2024-03-20"
 ---
 
+**26 total hours spent on the project**
+
 ## July 1st
 
 I plan on this being a decorative project with a high level of functionality, modularity, and somethign easily packable. While looking around on the market, I've found little to no high quality fume extractors at an affordable price.
