@@ -10,7 +10,34 @@ It provides **3 spares** of quick-swap carbon capsules with HEPA filters to prov
 
 <img height="1000" alt="Screenshot from 2025-07-29 22-48-53" src="https://github.com/user-attachments/assets/64495ecd-f5c4-4586-b3c1-f700c61e5fe8" />
 
-# Project Bill of Materials
+## How to Assemble
+
+There are two parts to this.
+* Ordering BOM
+* 3d Printing Parts (check CAD folder)
+* Putting it all together
+
+Let's skip over to putting it together.
+
+### Wiring up the PWM fans to the Microcontroller (Rpi-Pico)
+
+Refer to the wiring diagram below:
+
+### Putting together the print
+
+The capsules are in a couple of pieces, and you'll need a screw and a nut for each of the parts.
+
+* First, insert the fan inside, with the wires on the accessible side for hooking up to the microcontroller. Use the screws available inside of the package for the fans
+* Then, put a mesh between the fan and the rest of the capsule on the next part. You'll need two M2 screws and nuts
+* Finally, pour the bag of carbon granules inside, and insert the HEPA filter at the end. As before, you'll need two M2 screws and nuts
+
+### Final Steps
+
+* Flashing firmware
+
+To flash the firmware, open up the Arduino IDE, and copy and paste the code from the repository to the pico
+
+## Project Bill of Materials
 
 **Total Cost: $149.68**
 
@@ -43,17 +70,7 @@ It provides **3 spares** of quick-swap carbon capsules with HEPA filters to prov
 | ------------| -------- | ----- | ---- | ---------------------- |
 | Springs      | 2        | -     | -    | Already purchased      |
 | 3D Prints    | -        | -     | -    | Using printing legion  |
-
----
-
-## Optional Tools (Not in BOM)
-
-| Component     | Quantity | Price  | Link                                                                                                      | Notes                  |
-| ------------- | -------- | ------ | --------------------------------------------------------------------------------------------------------- | ---------------------- |
-| Wire Spool     | 5        | $25.98 | [MicroCenter](https://www.microcenter.com/product/456250/adafruit-industries-hook-up-wire-spool-set-(22awg-solid-core-25-ft)) | Personally recommended |
-| Wire Stripper  | 1        | $21.97 | [Amazon](https://www.amazon.com/Self-Adjusting-Stripper-Klein-Tools-11061/dp/B00CXKOEQ6)                  | Personally recommended |
-
----
+| Heatset M2 Inserts | 2  | -     | -    | Already purchased      |
 
 ## Cost Summary
 
