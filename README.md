@@ -8,7 +8,7 @@ A Travel packable fume-extractor for electronic prototyping inspired by Rogue On
 
 It provides **3 spares** of quick-swap carbon capsules with HEPA filters to provide **2 stage filtering**. The microcontroller has an external mount with warning lights when **failed filtering of Volatile Organic Compounds (VOCs)** is detected from a dedicated sensor. The vacuum tube is supported by a gooseneck arm for easily getting up close to fumes.
 
-<img height="1000" alt="Screenshot from 2025-07-29 22-48-53" src="https://github.com/user-attachments/assets/64495ecd-f5c4-4586-b3c1-f700c61e5fe8" />
+<img width="1003" height="1583" alt="Screenshot from 2025-08-06 09-17-03" src="https://github.com/user-attachments/assets/ccb42aa4-d5f8-4ca7-b1ab-99cabab465dd" />
 
 ## How to Assemble
 
